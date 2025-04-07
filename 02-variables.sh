@@ -3,8 +3,8 @@
 person1=rahim
 person2=mant
 
-echo "rahim:: hi"
-echo "mant:: hi"
-echo "rahim: how are you"
-echo "mant: i am good"
+echo "$person1:: hi"
+echo "$person2:: hi"
+echo "$person1: how are you"
+echo "$person2: i am good"
 
